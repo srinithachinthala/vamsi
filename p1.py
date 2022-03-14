@@ -56,7 +56,7 @@ else:
     print("failed: clipboard not supported")'''
 '''import re
 with open("first.txt","r") as f:
-    dta="Hello sahfjhsajhdfjhasjdfh your mail is srinitha.chinthala@ojas-it.com"
+    dta="Hello jhjkhmn your mail is srinitha.chinthala@ojas-it.com"
     res=f.read()
     res1=re.split(r"[@-(\.)]",res)
     print(res1)'''
