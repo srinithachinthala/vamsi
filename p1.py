@@ -56,7 +56,7 @@ else:
     print("failed: clipboard not supported")'''
 '''import re
 with open("first.txt","r") as f:
-    dta="Hello srinitha chinthala your mail is srinitha.chinthala@ojas-it.com"
+    dta="Hello sahfjhsajhdfjhasjdfh your mail is srinitha.chinthala@ojas-it.com"
     res=f.read()
     res1=re.split(r"[@-(\.)]",res)
     print(res1)'''
@@ -72,7 +72,6 @@ for i in combinations(lst,2):
  lst1.append(res1)
  lst2.append(res2)
 res3=max(lst1)
-print(lst1)
 res4=lst1.index(res3)
 res5=lst2[res4]
 print(res5)
